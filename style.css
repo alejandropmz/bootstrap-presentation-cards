@@ -1,0 +1,56 @@
+* {
+  padding: 0px;
+  margin: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 13px;
+}
+
+.sections-padding {
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.border-section {
+  border: solid steelblue 2px;
+}
+
+
+.white-text {
+  color: white;
+}
+
+.gray-text {
+  color: gray;
+}
+
+.purple-section {
+  background: purple;
+}
+
+.photo-name {
+  margin-bottom: 10px;
+}
+
+.photo-name * {
+  margin: 0 4px;
+}
+
+.photo-name img {
+  border-radius: 100%;
+  border: solid white 2px;
+  height: 3rem;
+  width: 3rem;
+}
+
+.name * {
+  margin: 0;
+}
+
+.hotpink-section {
+  background: hotpink;
+}
+
+.midnightblue {
+  background-color: midnightblue;
+}
+
